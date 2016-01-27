@@ -1,4 +1,11 @@
-// Number Of Disc Intersections
+//
+// Chapter 6: Sorting
+//
+// 6.4 Number Of Disc Intersections
+//
+// Determine whether a given string of parentheses is properly nested.
+
+
 
 function intersect(cen1,rad1,cen2,rad2) {
   var d1from = cen1-rad1
