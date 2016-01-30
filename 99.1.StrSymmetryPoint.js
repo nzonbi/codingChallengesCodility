@@ -1,4 +1,4 @@
-// Chapter 16: Greedy algorithms
+// Chapter 99
 
 // 99.1 String Symmetry Point
 
