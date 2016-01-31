@@ -2,7 +2,7 @@
 
 // 99.2 Tree height
 
-// Find a symmetry point of a string, if any.
+// Calculate the height of a binary tree.
 
 
 
